@@ -1,6 +1,6 @@
 # Welcome to Argo Student Robotics Team
 
-![Argo_docs_logo.png](..%2F..%2FArgo_docs_logo.png)
+![Argo_docs_logo.png](Argo_docs_logo.png)
 
 Argo is a student run robotics team of the [Faculty of Computing](https://raf.edu.rs/en/) (RAF), Belgrade, Serbia.
 Even though we're a part of RAF, we have members from all major technical faculties in Belgrade. We have one simple goal,
