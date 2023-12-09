@@ -1,4 +1,4 @@
-# Welcome to Argo Student Robotics Team
+# Welcome to the Argo Student Robotics Team
 
 ![Argo_docs_logo.png](https://github.com/Argo-Student-Robotics-Team/.github/blob/main/profile/Argo_docs_logo.png?raw=true)
 
