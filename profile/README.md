@@ -1,4 +1,4 @@
-	# Welcome to the Argo organization GitHub
+# Welcome to the Argo organization GitHub
 
 ![Argo_docs_logo.png](https://github.com/Argo-Student-Robotics-Team/.github/blob/main/profile/Logo.png?raw=true)
 
